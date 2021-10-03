@@ -14,8 +14,8 @@ Deliverable 2: Add Major Earthquake Data
 Deliverable 3: Add an Additional Map
 
 
-[index.html](index.html)
+[Earthquake_Challenge/index.html](index.html)
 
-[style.css](style.css)
+[Earthquake_Challenge/static/css/style.css](style.css)
 
-[challenge_logic.js](challenge_logic.js)
+[Earthquake_Challenge/static/js/challenge_logic.js](challenge_logic.js)
